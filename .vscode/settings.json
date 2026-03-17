@@ -1,0 +1,7 @@
+{
+    "java.protect.sourcePaths": ["src"],
+    "java.protect.outputPath": "bin",
+    "java.protect.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
