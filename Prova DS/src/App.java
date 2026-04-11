@@ -1,8 +1,8 @@
 public class App {
     public static void main(String[] args) {
-        //new frete();
+        new frete();
         //new blackfriday();
         //new xp();
-        new streamer();
+        //new streamer();
     }
 }
